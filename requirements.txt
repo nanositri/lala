@@ -2,5 +2,5 @@ numpy
 pandas
 streamlit
 pip==23.2.1
-scikit-learn
+scikit-learn==0.24.2
 sklearn
